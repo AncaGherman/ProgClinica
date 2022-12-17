@@ -1,3 +1,4 @@
+//Versiunea 2
 package obiectesiclase;
 
 //import org.w3c.dom.ls.LSOutput;
